@@ -1,0 +1,9 @@
+heads = 1
+shoulders = 2
+knees = 2
+toes = 10
+people = heads + shoulders + knees + toes
+people = 1
+print(people)
+print(people + 1)
+#counting the number of the people attending the party
