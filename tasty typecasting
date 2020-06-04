@@ -1,0 +1,2 @@
+B = (float(inputStr) * float(inputStr))
+print(int(B / 100))
